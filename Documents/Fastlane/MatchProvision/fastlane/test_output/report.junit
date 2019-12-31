@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='MatchProvisionUITests.xctest' tests='4' failures='0'>
+  <testsuite name='MatchProvisionTests.MatchProvisionTests' tests='2' failures='0'>
+    <testcase classname='MatchProvisionTests.MatchProvisionTests' name='testExample' time='0.001'/>
+    <testcase classname='MatchProvisionTests.MatchProvisionTests' name='testPerformanceExample' time='0.352'/>
+  </testsuite>
+  <testsuite name='MatchProvisionUITests.MatchProvisionUITests' tests='2' failures='0'>
+    <testcase classname='MatchProvisionUITests.MatchProvisionUITests' name='testExample' time='2.366'/>
+    <testcase classname='MatchProvisionUITests.MatchProvisionUITests' name='testLaunchPerformance' time='19.939'/>
+  </testsuite>
+</testsuites>

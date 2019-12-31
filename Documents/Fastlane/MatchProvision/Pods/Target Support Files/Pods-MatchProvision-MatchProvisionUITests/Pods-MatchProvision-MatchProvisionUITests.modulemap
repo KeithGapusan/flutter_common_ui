@@ -1,0 +1,6 @@
+framework module Pods_MatchProvision_MatchProvisionUITests {
+  umbrella header "Pods-MatchProvision-MatchProvisionUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
