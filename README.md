@@ -1,7 +1,8 @@
 # flutter_common_ui
-A boiler plate of flutter dart common custom made UI such as onboarding screen, registration form,  login screen and etc.
+![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)
+![Flutter](https://img.shields.io/badge/Flutter-Dart-blue)
 
-## Show some ❤️ and star the repo to support the project
+A boiler plate of flutter dart common custom made UI such as onboarding screen, registration form,  login screen and etc.
 
 ## Usage 
 To use this package :
