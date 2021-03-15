@@ -11,12 +11,13 @@ add the dependency to your pubspec.yaml file.
 dependencies:
     flutter:
       sdk: flutter
-    intro_screen_onboarding: ^0.0.1
+    flutter_common_ui: ^0.0.1
     
  
 ## How to use
 ## onboarding screen
- ```class TestScreen extends StatelessWidget {
+ ```
+ class TestScreen extends StatelessWidget {
 
   final List<Introduction> list = [
     Introduction(
@@ -43,10 +44,11 @@ dependencies:
       );
     },);
   }
-}```
+}
+```
 
 ## login screen
-```dart
+```
 import 'package:flutter/material.dart';  
 import 'package:login_/login_.dart';  
   
