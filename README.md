@@ -42,7 +42,7 @@ dependencies:
       );
     },);
   }
-}
+}```
 
 ## login screen
 ```dart
